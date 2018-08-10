@@ -81,9 +81,38 @@
 
 ## 七、工具软件
 
+- ###评价类
+
+1. GJB5000A评价工具。新时代中心
+
+- ###项目管理类
+
+1. Visual Studio Team Foundation Server。商业。Microsoft
+2. Project。商业。Microsoft
+3. Redmine。开源
+4. Gitlab。开源
+5. 禅道。开源/商业。
+6. JIra。商业。Atlassian
+
+- ### 配置管理类
+
+1. git。开源
+2. subversion。开源
+3. gitlab。开源
+4. bitbucket。商业。Atlassian
+
+- ### 持续集成类
+
+1. Jenkins。开源
+2. Bamboo。商业。Atlassian
+3. TeamCity。商业。
+
 ## 八、书籍材料
 
 ## 九、网站
+
+1. 新时代认证中心
+2. CMMI研究院
 
 ## 十、在线课程
 
@@ -91,3 +120,5 @@
 ## 十一、培训
 
 ## 十二、认证证书
+
+GJB5000A二、三级内部评估员。新时代认证中心
