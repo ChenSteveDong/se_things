@@ -87,25 +87,24 @@
 
 - ###项目管理类
 
-1. Visual Studio Team Foundation Server。商业。Microsoft
+1. JIra。商业。Atlassian
+2. Visual Studio Team Foundation Server。商业。Microsoft
 2. Project。商业。Microsoft
-3. Redmine。开源
-4. Gitlab。开源
-5. 禅道。开源/商业。
-6. JIra。商业。Atlassian
+4. Redmine。开源。[Jean-Philippe Lang](https://www.redmine.org/users/1)
+5. 禅道。开源/商业。[青岛易软天创网络科技有限公司](http://www.cnezsoft.com/)
 
 - ### 配置管理类
 
-1. git。开源
-2. subversion。开源
-3. gitlab。开源
-4. bitbucket。商业。Atlassian
+1. git。开源。Linus Torvalds 
+2. subversion。开源。 [Apache Software Foundation](https://www.apache.org/)
+3. gitlab。开源。GitLab Inc.
+4. bitbucket server。商业。Atlassian
 
 - ### 持续集成类
 
 1. Jenkins。开源
 2. Bamboo。商业。Atlassian
-3. TeamCity。商业。
+3. TeamCity。商业。 JetBrains
 
 ## 八、书籍材料
 
@@ -122,3 +121,6 @@
 ## 十二、认证证书
 
 GJB5000A二、三级内部评估员。新时代认证中心
+
+
+
