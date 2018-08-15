@@ -116,10 +116,8 @@
 
 - ### 知识管理类
 
-1. Confluence。商业。Atlassian
+1. Confluence。商业。Atlassian​
 
-
-1. ​
 
 ## 八、书籍材料
 
