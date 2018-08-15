@@ -2,22 +2,22 @@
 
 ## 一、国外顶级期刊
 
-1. ACM Transactions on Programming Languages & Systems (美国计算机学会程序语言及系统汇刊)
-2. IEEE Transactions on Software Engineering（IEEE软件工程汇刊）
-3. ACM Transactions on Software Engineering Methodology（美国计算机学会软件工程和方法论汇刊）
-4. Requirements Engineering （需求工程）
-5. Journal of Software: Evolution and Process （软件演进及过程期刊）
-6. Software and System Modeling  （软件和系统建模）
-7. Software: Practice and Experience  （软件：实践和经验）
-8. Software Testing, Verification and Reliability  （软件测试、验证及可靠性）
+1. ACM Transactions on Programming Languages & Systems。美国计算机学会程序语言及系统汇刊
+2. IEEE Transactions on Software Engineering。IEEE软件工程汇刊
+3. ACM Transactions on Software Engineering Methodology。美国计算机学会软件工程和方法论汇刊
+4. Requirements Engineering 。需求工程
+5. Journal of Software: Evolution and Process 。软件演进及过程期刊
+6. Software and System Modeling  。软件和系统建模
+7. Software: Practice and Experience 。软件：实践和经验
+8. Software Testing, Verification and Reliability 。软件测试、验证及可靠性
 
 ## 二、国内核心期刊
 
-1. 计算机学报，北京，中国计算机学会等（Rank 1） 
-2. 自动化学报，北京，中国科学院等（Rank 1） 
-3. 软件学报，北京，中国科学院软件研究所（Rank 1）
-4. 计算机研究与发展，北京，中国科学院计算技术研究所等（Rank 1） 
-5. 电子学报，北京，中国电子学会（Rank 1）
+1. 计算机学报，北京，中国计算机学会 
+2. 自动化学报，北京，中国科学院
+3. 软件学报，北京，中国科学院软件研究所
+4. 计算机研究与发展，北京，中国科学院计算技术研究所 
+5. 电子学报，北京，中国电子学会
 6. 小型微型计算机系统，沈阳，中国科学院沈阳计算机技术研究所 
 7. 软件工程与应用，武汉，汉斯出版社
 8. 机器人，沈阳，中国科学院沈阳自动化研究所 
@@ -81,24 +81,25 @@
 
 ## 七、工具软件
 
-- ###评价类
+- ### 评价类
 
 1. GJB5000A评价工具。新时代中心
 
-- ###项目管理类
+- ### 项目管理类
 
 1. JIra。商业。Atlassian
 2. Visual Studio Team Foundation Server。商业。Microsoft
 2. Project。商业。Microsoft
-4. Redmine。开源。[Jean-Philippe Lang](https://www.redmine.org/users/1)
-5. 禅道。开源/商业。[青岛易软天创网络科技有限公司](http://www.cnezsoft.com/)
+4. Redmine。开源。Jean-Philippe Lang
+5. 禅道。开源/商业。青岛易软天创网络科技有限公司
 
 - ### 配置管理类
 
 1. git。开源。Linus Torvalds 
-2. subversion。开源。 [Apache Software Foundation](https://www.apache.org/)
+2. subversion。开源。 Apache Software Foundation
 3. gitlab。开源。GitLab Inc.
 4. bitbucket server。商业。Atlassian
+5. sourcetree。免费。Atlassian
 
 - ### 持续集成类
 
@@ -106,7 +107,24 @@
 2. Bamboo。商业。Atlassian
 3. TeamCity。商业。 JetBrains
 
+- ### 建模类
+
+1. Enterprise Architecture。商业。Sparx Systems
+2. Rational Rhapsody。商业。IBM
+3. Rational Software Architect。商业。IBM
+
+- ### 知识管理类
+
+1. Confluence。商业。Atlassian
+
+
+1. ​
+
 ## 八、书籍材料
+
+1. GJB5000A-2008。
+2. CMMI V1.2
+3. CMMI V2.0
 
 ## 九、网站
 
@@ -115,12 +133,15 @@
 
 ## 十、在线课程
 
+1. [软件工程](https://zh.coursera.org/learn/ruanjian-gongcheng)。北京大学
+2. [面向对象技术高级课程](https://www.coursera.org/learn/aoo)。北京大学
 
 ## 十一、培训
+
+1. Project Management Professional PMP项目管理。Project Management Institute
+2. UML 建模。 UML China
 
 ## 十二、认证证书
 
 GJB5000A二、三级内部评估员。新时代认证中心
-
-
 
