@@ -41,18 +41,19 @@
 
 ## 三、会议
 
-1. ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference （美国计算机学会软件工程基础专题会/欧洲软件工程研讨会）
-2. Conference on Object-Oriented Programming Systems, Languages, and Applications （面向对象编程体系、编程语言及应用研讨会）
-3. International Conference on Software Engineering  （软件工程国际研讨会）
-4. IEEE International Requirement Engineering Conference （IEEE需求工程国际研讨会）
-5. International Conference on Model Driven Engineering Languages and Systems （模型驱动工程语言及系统国际研讨会）
-6. International Symposium on Empirical Software Engineering and Measurement （基于实践的软件工程及度量国际研讨会）
+1. ACM SIGSOFT Symposium on the Foundation of Software Engineering/ European Software Engineering Conference 。美国计算机学会软件工程基础专题会/欧洲软件工程研讨会
+2. Conference on Object-Oriented Programming Systems, Languages, and Applications。面向对象编程体系、编程语言及应用研讨会
+3. International Conference on Software Engineering 。软件工程国际研讨会
+4. IEEE International Requirement Engineering Conference 。IEEE需求工程国际研讨会
+5. International Conference on Model Driven Engineering Languages and Systems 。模型驱动工程语言及系统国际研讨会
+6. International Symposium on Empirical Software Engineering and Measurement。基于实践的软件工程及度量国际研讨会
 
 ## 四、普通杂志报刊
 
-1. 电子技术与软件工程。由中国科学技术协会、中国电子学会主办的国内外公开发行的国家级期刊 (国内刊号：CN10-1108/TP；国际刊号：ISSN 2095-5650)。
-2. 软件工程。由东北大学主办，辽宁省教育厅主管，月刊，国家首批认定的学术期刊。国内出版物号：CN 21-1603/TP；国际出版物号：ISSN 2096-1472；CODEN：RGUOAX。
+1. 电子技术与软件工程。由中国科学技术协会、中国电子学会主办，月刊，ISSN 2095-5650
+2. 软件工程。由东北大学主办，月刊，ISSN 2096-1472
 3. 软件。由中国电子学会、天津电子学会主办，月刊，ISSN：1003-6970
+4. 中国质量。由中国质量协会主办，月刊，ISSN：1007-2713
 
 ## 五、微信公众号
 
