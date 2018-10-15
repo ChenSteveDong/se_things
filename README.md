@@ -119,7 +119,26 @@
 1. Confluence。商业。Atlassian​
 
 
-## 八、书籍材料
+## 八、书籍
+
+## 九、参考资料
+
+- ###配置管理类
+
+  - ```
+    ANSI/EIA-649-B-2011 Standard for ConfigurationManagement
+    MIL-STD-3046(ARMY)-2013 Department of DefenseInterim Standard Practice Configuration Management 
+    SAE EIA-649-1 Configuration Management Requirementsfor Defense Contracts
+    Defence Acquisition Guidebook（DAG)
+    MIL-HDBK-61-B Configuration Management Guidance
+    Configuration Management Classes &Certifications frome CMPIC
+    CMII-100 CMII/IPE Standard for ConfigurationManagement and Integrated Process Management
+    NATO ACMP-2009:2017 Guidance On ConfigurationManagement
+    ```
+
+  ​
+
+- ##总体
 
 1. GJB5000A-2008。
 2. CMMI V1.2
